@@ -24,7 +24,7 @@ public class Scanner {
 	}
 
 	public int nextint() {
-		
+		System.out.println("hello");
 		return 0;
 	}
 }
