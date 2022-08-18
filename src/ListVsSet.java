@@ -13,12 +13,12 @@ public class ListVsSet {
 		
 		System.out.println(lst);
 		Set <String> st=new HashSet<String>();
-        st.add("Green");
-        st.add("Yello");
+        st.add("1");
+        st.add("2");
         st.add(null);
-        st.add("Pink");
-        st.add("red");
-        st.add("red");
+        st.add("3");
+        st.add("4");
+        st.add("5");
         st.add(null);
         System.out.println(st);
         
